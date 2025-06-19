@@ -19,9 +19,8 @@ I used GitHub to track and manage all code changes efficiently, additionally , G
 
 ## Challenges 
 - I came across challenges when dealing with the placement of code. Using the appropriate structure and syntax for the desired outcome.
-- Faced challenges when starting up the emulator on bluestacks. It led to a delay in my code running on multiple occassions.
-- 
- 
+
+  
 -------------------
 
 ## Screenshot
@@ -29,14 +28,17 @@ I used GitHub to track and manage all code changes efficiently, additionally , G
 < />
 
 
+![Screenshot 2025-06-19 153642](https://github.com/user-attachments/assets/b73f616c-4bb1-4013-aa28-e879ac21c00e)
+
+**Figure 2**: Screenshot of my Archive app running on Bluestacks.
 
 
-- **Figure 1**: Screenshot of my Archive app running on Bluestacks.
+
+![image](https://github.com/user-attachments/assets/1e6a1443-e8c0-4e58-868c-d022ca16cdf3)
+
+**Figure 2**: Screenshot of my Archive app running on Bluestacks.
 
 
-
-
- **Figure 2**: Screenshot of my Archive app running on Bluestacks.
 
 
 ## Planned Upgrades
